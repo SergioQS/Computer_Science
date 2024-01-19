@@ -1,3 +1,2 @@
-This is a Machine Learning and Artificial Intelligence repo, it includes:
-- Some notebooks for The QC UNAL AI course.
+This is a Machine Learning repo, it includes:
 - Datasets and some projects for "mathematics for machine learning class at UN".
