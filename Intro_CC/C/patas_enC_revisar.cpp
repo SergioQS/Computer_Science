@@ -8,7 +8,7 @@ int main(){
 	printf("ingrese el numero de patas ");
 	scanf("%d", &y);
 	While(x<0 || y<=2*x || y%2!=0){
-		printf("No se puede realizar tu cálculo, por favor vuelve a ingresar un numero de animales: ");
+		printf("No se puede realizar tu cÃ¡lculo, por favor vuelve a ingresar un numero de animales: ");
 		scanf("%d", &x);
 		printf("por favor vuelve a ingresar un numero de patas: ");
 		scanf("%d", &y);
