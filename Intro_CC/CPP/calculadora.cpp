@@ -12,7 +12,7 @@ int main(){
 	cout << "2. a-b, " << endl;
 	cout << "3. a*b, " << endl;
 	cout << "4. a/b, " << endl;
-	cout << "Digita el numero de operación a realizar: ";
+	cout << "Digita el numero de operaciÃ³n a realizar: ";
 	cin >> n;
 	switch(n) {
 		case 1:
